@@ -50,21 +50,21 @@ Hello World!
 [Entity Framework Core is a modern object-database mapper for .NET](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXCPdC3fTFA3Z79-eVH3K-s)
 
 >[!NOTE]
->1 Getting Started with Entity Framework Core [1 of 5] | Entity Framework Core for Beginners   
->2 Working with an Existing Database [2 of 5] | Entity Framework Core for Beginners   
->3 ASP.NET Core Web Apps with EF Core [3 of 5] | Entity Framework Core for Beginners   
->4 Database Providers [4 of 5] | Entity Framework Core for Beginners   
->5 Performance Tips [5 of 5] | Entity Framework Core for Beginners   
->6 How to code along with these videos [Supplemental] | Entity Framework Core for Beginners   
+> 1 Getting Started with Entity Framework Core [1 of 5] | Entity Framework Core for Beginners   
+> 2 Working with an Existing Database [2 of 5] | Entity Framework Core for Beginners   
+> 3 ASP.NET Core Web Apps with EF Core [3 of 5] | Entity Framework Core for Beginners   
+> 4 Database Providers [4 of 5] | Entity Framework Core for Beginners   
+> 5 Performance Tips [5 of 5] | Entity Framework Core for Beginners   
+> 6 How to code along with these videos [Supplemental] | Entity Framework Core for Beginners   
 
 [.NET on Azure for Beginners)(https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVSBX3Lde8owu6dSgZLIXfu)
 
 >[!NOTE]
->1 Getting Started [1 of 8] | .NET on Azure for Beginners
->2 Deploying Web Apps and APIs to Azure [2 of 8] | .NET on Azure for Beginners
->3 Using Blob Storage [3 of 8] | .NET on Azure for Beginners
->4 Authentication and Authorization [4 of 8] | .NET on Azure for Beginners
->5 Managed Identity [5 of 8] | .NET on Azure for Beginners
->6 Deploy .NET Apps to Containers [6 of 8] | .NET on Azure for Beginners
->7 Serverless with Azure Functions [7 of 8] | .NET on Azure for Beginners
->8 CI/CD with GitHub Actions [8 of 8] | .NET on Azure for Beginners
+> 1 Getting Started [1 of 8] | .NET on Azure for Beginners    
+> 2 Deploying Web Apps and APIs to Azure [2 of 8] | .NET on Azure for Beginners    
+> 3 Using Blob Storage [3 of 8] | .NET on Azure for Beginners    
+> 4 Authentication and Authorization [4 of 8] | .NET on Azure for Beginners    
+> 5 Managed Identity [5 of 8] | .NET on Azure for Beginners    
+> 6 Deploy .NET Apps to Containers [6 of 8] | .NET on Azure for Beginners    
+> 7 Serverless with Azure Functions [7 of 8] | .NET on Azure for Beginners    
+> 8 CI/CD with GitHub Actions [8 of 8] | .NET on Azure for Beginners    
