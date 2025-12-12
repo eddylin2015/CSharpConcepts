@@ -24,6 +24,8 @@ Hello World!
 
 ### 參考
 
+[學習中心.NET 影片](https://dotnet.microsoft.com/zh-tw/learn/videos)
+
 [C# for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe)
 
 >[!NOTE]
@@ -74,3 +76,5 @@ Hello World!
 > 7 Serverless with Azure Functions [7 of 8] | .NET on Azure for Beginners    
 > 8 CI/CD with GitHub Actions [8 of 8] | .NET on Azure for Beginners    
 
+
+[Learn  .NET  C# C# documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
