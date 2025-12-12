@@ -47,6 +47,11 @@ Hello World!
 > 18 Object-oriented Programming (OOP) [Pt 18] | C# for Beginners   
 > 19 OOP with derived or abstract classes, overrides | IEnumerable [Pt 19] | C# for Beginners   
 
+[引導式專案 - 計算和列印學生成績](https://learn.microsoft.com/zh-tw/training/modules/guided-project-calculate-print-student-grades/)
+
+[引導式專案 - 計算最終 GPA](https://learn.microsoft.com/zh-tw/training/modules/guided-project-calculate-final-gpa/)
+
+
 [Entity Framework Core is a modern object-database mapper for .NET](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXCPdC3fTFA3Z79-eVH3K-s)
 
 >[!NOTE]
@@ -68,3 +73,4 @@ Hello World!
 > 6 Deploy .NET Apps to Containers [6 of 8] | .NET on Azure for Beginners    
 > 7 Serverless with Azure Functions [7 of 8] | .NET on Azure for Beginners    
 > 8 CI/CD with GitHub Actions [8 of 8] | .NET on Azure for Beginners    
+
